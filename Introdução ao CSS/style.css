@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+#card-kris{
+    width: 300px;
+    height: 800px;
+    border-style: solid;
+    display: inline-block;
+    margin-right: 20px;
+}
+#card-susie{
+    width: 300px;
+    height: 855px;
+    border-style: solid;
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#card-ralsei{
+    width: 300px;
+    height: 927px;
+    border-style: solid;
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+}
